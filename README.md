@@ -2,7 +2,7 @@
 
 제 데이터 분석가 포트폴리오에 오신 것을 환영합니다! 이곳에서는 저의 프로젝트, 기술 및 데이터 분석 분야에 대한 기여를 확인하실 수 있습니다.
 
-![프로필 이미지](https://via.placeholder.com/150)
+![프로필 이미지](https://github.com/skaxhdlf0413/test/assets/170151456/c4c1e811-6343-4e2a-a768-9f8f7dbba2d1)
 
 ---
 
