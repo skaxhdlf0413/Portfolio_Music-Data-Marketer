@@ -75,9 +75,9 @@
 
 문의 사항이나 협업 기회가 있으시면 언제든지 연락해 주세요:
 
-- **이메일**: [username@example.com](mailto:username@example.com)
-- **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **GitHub**: [github.com/username](https://github.com/username)
+- **이메일**: [skaxhdlf0413@naver.com](mailto:skaxhdlf0413@naver.com)
+- **LinkedIn**: [linkedin.com/in/thisiskyho](https://www.linkedin.com/in/thisiskyho)
+- **GitHub**: [github.com/skaxhdlf0413](https://github.com/skaxhdlf0413)
 
 ---
 
