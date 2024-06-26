@@ -1,13 +1,14 @@
-# 🎓 K-POP 데이터 분석가 포트폴리오
+# 🎓 K-POP Data Marketer Portfolio
 
-데이터 분석가 포트폴리오에 오신 것을 환영합니다! 
-이곳에서는 저의 프로젝트, 기술 및 데이터 분석 분야에 대한 기여를 확인하실 수 있습니다.
+Welcome to my portfolio of entertainment music data marketer !
+You can check out my contributions to my projects, technology, and data analysis here.
 
 LINKEDIN: www.linkedin.com/in/thisiskyho
+Portfolio(Korean): yourkyho.notion.site/The-Data-Never-Lies-Music-Busin-0ea53e35847546fda7214a458ba80030
 
 ---
 
-## 📊 프로젝트
+## 📊 Project
 
 ### 프로젝트 1: 고객 이탈 예측
 **목표**: 머신 러닝 모델을 사용하여 통신 회사의 고객 이탈을 예측합니다.
