@@ -5,7 +5,7 @@ You can check out my contributions to my projects, technology, and data analysis
 
 LINKEDIN: www.linkedin.com/in/thisiskyho
 
-Portfolio(Korean): www.yourkyho.notion.site/The-Data-Never-Lies-Music-Busin-0ea53e35847546fda7214a458ba80030
+Portfolio(Korean): https://yourkyho.notion.site/The-Data-Never-Lies-Music-Busin-0ea53e35847546fda7214a458ba80030
 
 ---
 
